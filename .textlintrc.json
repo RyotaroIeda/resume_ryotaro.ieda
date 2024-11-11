@@ -22,10 +22,6 @@
       "before": true,
       "after": true
     },
-    "ja-space-between-half-and-full-width": {
-      "space": "always",
-      "lintStyledNode": true
-    },
     "ja-unnatural-alphabet": true,
     "max-comma": {
       "max" : 4
